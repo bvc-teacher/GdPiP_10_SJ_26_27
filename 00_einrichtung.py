@@ -1,0 +1,1 @@
+print('Hallo Welt! Heute ist ein guter Tag! :-)')
