@@ -1,0 +1,1 @@
+Powershell.exe -noexit -ExecutionPolicy Bypass -File VSCODE_PLUGINS_HELPER.ps1
