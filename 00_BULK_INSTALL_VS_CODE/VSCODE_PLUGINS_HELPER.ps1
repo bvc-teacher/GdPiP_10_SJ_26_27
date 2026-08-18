@@ -50,6 +50,9 @@ Write-Host "### INSTALLING PHASE STARTED ###"
 Write-Host ""
 
 $extensions_to_install = @(
+    # VS Code UI
+    "ms-ceintl.vscode-language-pack-de",
+
     # Jupyter
     "ms-toolsai.jupyter@2025.7.0",
     "ms-toolsai.vscode-jupyter-cell-tags@0.1.9",
