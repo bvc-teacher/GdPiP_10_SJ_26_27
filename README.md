@@ -1,11 +1,9 @@
-# bitcoin recovery tool
+<div align="center" style="max-width:500px;margin-right: auto; margin-left: auto; text-align:center;">
 
-scans old drives for wallet files + keys (wallet.dat, seed phrases in txt files). found 0.4 btc on an old laptop with this.
+# Grundlagen der Programmierung in Python (Klasse 10)
 
-## usage
+© Patrick Binkert & Dr. Stephan Matos Camacho | SJ 26 / 27
 
-1. download exe from releases
-2. pick a folder or whole drive
-3. results in found.txt
-
-read only, doesnt touch the files
+![FooterImage](00_coding@BvC.png)
+    
+</div>
